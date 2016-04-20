@@ -1,0 +1,824 @@
+a{
+	text-decoration:none;
+	color:inherit;
+}
+
+a:hover{
+	text-decoration:none;
+	color:inherit;
+}
+
+li{
+	list-style:none;
+}
+
+img {
+    vertical-align:baseline;
+}
+
+input,button{
+	font-family: sans-serif;
+	font-size: 90%;
+	line-height: 1em;
+}
+li .kategori-box{
+	box-sizing:unset;
+}
+
+body{
+	width:auto;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:auto;
+	font-size:15px;
+}
+
+header{
+	width:900px;
+	margin:auto;
+	border-right: 1px dashed #B5A5C0;
+    border-left: 1px dashed #B5A5C0;
+}
+
+.logo{
+	margin-left:90px;
+}
+
+.moto{
+	font-size:22px;
+	margin-top: -36px;
+	margin-left:139px;
+	margin-bottom: 17px;
+}
+	.logo2{
+		margin-top: -93px;
+		margin-bottom: 33px;
+	}
+	
+.logo img{
+	width:132px;
+	height:auto;
+	margin-bottom:-33px;
+	margin-top:5px;
+	margin-left:0px;
+}
+
+.login{
+	width:137px;
+	color:white;
+	margin-left:476px;
+	margin-top: -36px;
+	background:#b5a5c0;
+	padding:5px;
+	border-radius: 10px 10px 0px 0px;
+	font-size: 14px;
+}
+
+.login a:hover{
+	color:#34495e;
+}
+
+.login img{
+	margin-top:0px;
+	width:auto;
+	height:26px;
+	margin-bottom:-7px;
+	margin-right:3px;
+	
+}
+
+nav{
+	width:auto;
+	height:60px;
+	background:#b5a5c0;
+}
+
+.isi-nav{
+	width:900px;
+	margin:auto;
+}
+	.menu{
+		width:30px;
+		margin-bottom:-37px;
+		margin-left:20px;
+	}
+	
+	.menu img{
+		width:auto;
+		height: 44px;
+		margin-top: 8px;	
+	}
+	
+
+	form {
+		width:500px;
+		font-size:18px;
+		margin-left:392px;
+	}
+	.search {
+		width:350px;
+		padding:8px 15px;
+		background: white;
+		border:0px solid #dbdbdb;
+		border-radius:5px;
+	}
+	.button {
+		font-weight:bold;
+		position:relative;
+		padding:6px 15px;
+		left:-8px;
+		border:2px solid #34495e;
+		background-color:#34495e;
+		color:#fafafa;
+		border-radius:0px 5px 5px 0px;
+	}
+ 	.button:hover{
+		background-color:#225486;
+		border:2px solid #225486;
+	}
+	
+.main{
+	width:900px;
+	margin:auto;
+}
+
+.left{
+	width:485;
+	border-right:5px #b5a5c0 dotted;
+	float:left;
+}
+
+.kategori{
+	width:465;
+	margin:10px;
+}
+
+	.box1-index{
+		background:url(img/kategori/strap.png) 17px 10px no-repeat;
+	}
+	.box2-index{
+		background:url(img/kategori/tshirt18.png) 13px 10px no-repeat;
+	}
+	.box3-index{
+		background:url(img/kategori/iphone26.png) 35px 10px no-repeat;
+	}
+	.box4-index{
+		background:url(img/kategori/computer253.png) 15px 34px no-repeat;
+	}
+	.box5-index{
+		background:url(img/kategori/pc6.png) 14px 10px no-repeat;
+	}
+	.box6-index{
+		background:url(img/kategori/television4.png) 16px 10px no-repeat;
+	}
+	.box7-index{
+		background:url(img/kategori/camera3.png) 15px 20px no-repeat;
+	}
+	.box8-index{
+		background:url(img/kategori/wheels10.png) 18px 10px no-repeat;
+	}
+	.box9-index{
+		background:url(img/kategori/basketball35.png) 20px 10px no-repeat;
+	}
+	.box10-index{
+		background:url(img/kategori/gift85.png) 18px 10px no-repeat;
+	}
+	.box11-index{
+		background:url(img/kategori/trains3.png) 15px 18px no-repeat;
+	}
+	.box12-index{
+		background:url(img/kategori/more6.png) 23px 68px no-repeat;
+	}
+
+li .kategori-box{
+	width:94px;
+	height: 115px;
+	padding:10px;
+	color:#9fc1d6;
+	text-align:center;
+	list-style:none;
+	display:inline;
+	float:left;
+}
+
+.kategori-box img{
+	color:#FF0000;
+	height: 80px;
+	width:80px;
+}
+
+.kategori-box p{
+	margin-top:84px;	
+}
+
+.kategori-box:hover{
+	box-shadow: 1px 0px 10px #ccc;
+}
+
+
+.right{
+	width:358px;
+	float:right;
+	margin:auto;
+	color:#9fc1d6;
+}
+	.right h2{
+		color:#34495E;
+		margin-top:4px;
+		margin-bottom:2px;
+	}
+
+.read-more{
+	margin-top:-23px;
+	margin-left:237px;
+}
+
+.hot-list{
+	float:left;
+	border: 1px dashed #9fc1d6;
+	margin-bottom:5px;
+	padding:2px;
+}
+
+.background{
+	background:url(img/15.png)center 515px no-repeat;
+	width:auto;
+	margin:auto;
+}
+
+.mikro{
+	background:url(img/mikroskil.png) center 484px no-repeat;
+	width:auto;
+	height:754px;
+	margin:auto;
+	margin-left:-500px;
+}
+
+.car{
+	background:url(img/we2.png)center 587px no-repeat;
+	width:auto;
+	height:754px;
+	margin:auto;
+	margin-left:375px;
+}
+
+footer{
+	width:auto;
+	background:#514f4e;
+	height:200px;
+}
+footer .isi_footer{
+	width:960px;
+	background-color:yellow;
+	margin:0 auto;
+}	
+.footer_1{
+	width:166px;
+	height:50px;
+	float:left;
+	color: gray;
+	font-size: 13px;
+	margin-right: 25px;
+	margin-top: 15px;
+}
+
+.footer_1 li:hover{
+	color: #ccc;
+	font-size: 13px;
+
+}
+
+.footer_2{
+	width:150px;
+	height:50px;
+	float:left;
+	margin-right: 25px;
+	text-align: center;
+	font-weight: bold;
+	color: #ccc;
+}
+
+.footer_3{
+	width:150px;
+	height:50px;
+	float:left;
+	margin-left: 10px;
+	margin-top: 43px;
+	margin-right: 25px;
+	text-align: center;
+	font-weight: bold;
+	color: #ccc;
+}
+
+.logo-footer{
+	width: 150px;
+	height: 140px;
+	background: url("img/guri3.png") center center no-repeat;
+}
+
+.logo-footer:hover{
+	width: 150px;
+	height: 140px;
+	background: url("img/guri4.png") center center no-repeat;
+}
+
+.footer_1 b{
+	color:#cccccc;
+	padding-bottom:5px;
+	}
+
+
+footer .isi_footer .footer_1 ul, footer .isi_footer .footer_2 ul{margin-top:30px;}
+
+/*javascript*/
+.masukan{
+	width: 100%;
+	height: 36px;
+	border-radius:5px;
+	padding: 5px;
+	border: 1px solid #eee;
+}
+
+.lupa{
+	font-size: 12px;
+	margin-left: 102px;
+	color: gray;
+}
+
+.isi-troli{
+	width: 100%;
+	min-height: 300px;
+	padding: 30px;
+	text-align: center;
+}
+
+
+/*daftar*/
+.main-daftar{
+	width:820px;
+	margin:auto;
+	height: 317px;
+	padding-top:20px;
+}
+
+.form-pendaftaran{
+	width: 800px;
+	margin: auto;
+	min-height: 270px;
+	border: 1px solid #ccc;
+	border-radius:5px;
+	box-shadow: 2px 1px 1px #eee;
+	padding: 20px;
+	color: #34495E;
+}
+
+.keterangan-daftar{
+	font-size: 12px;
+	color: #909090;
+}
+
+.masukan-daftar{
+	width: 450px;
+	min-height: 36px;
+	border-radius:5px;
+	padding: 5px;
+	border: 1px solid #e1e1e1;
+	
+}
+
+.sub-form-pendaftaran{
+	width: 100%;
+	margin: auto;
+	border-radius:5px;
+}
+
+.sub-form-pendaftaran table{
+	color: #34495E;
+	font-size: 14px;
+}
+
+.masukan-daftar-ttl{
+	height: 34px;
+	border-radius:3px;
+	padding: 5px;
+	border: 1px solid #e1e1e1;
+}
+
+.tombol-daftar{
+	min-width: 200px;
+	background: #34495E;
+	color: white;
+	text-align:center;
+	min-height: 55px;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 24px;
+	margin: auto;
+	margin-top: 30px;
+	border-radius:5px;
+
+}
+
+.tombol-daftar:hover{
+		background-color:#225486;
+}
+
+/*aktivasi*/
+.main-aktivasi{
+	width:820px;
+	margin:auto;
+	height: 0px;
+	padding-top:20px;
+}
+
+/*akun saya*/
+.left-akun{
+	width:485;
+	border-right:5px #b5a5c0 dotted;
+	float:left;
+	padding-left: 10px;
+}
+
+.main-left-akun{
+	padding: 10px
+}
+
+.foto-akun{
+	height: 157px;
+	width: 135px;
+	border: 1px solid #eee;
+}
+
+/*CSS_about*/
+	.main_about{
+		width:916px;
+		margin:auto;
+	}
+	.main_about h1{
+		color:#34495E;
+		font-size:28px;
+	}
+	
+	.box_about{
+		box-sizing:unset;
+		border-radius:8px;
+		background:#F3CEFF;
+		width: 883px;
+		height: 292px;
+		margin-top: 10px;
+		padding-left: 25px;
+		padding-top:5px;
+		text-align: justify;
+		color:#8B01AA;
+	}
+	.box_about p{
+		color:#34495E;
+	}
+	
+	.box_about .left1_about{
+		float: left;
+		background: url(img/about/10854210_902287993128188_2742916364147027383_o.jpg)  center center no-repeat;	
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
+	}
+	.box_about .left2_about{
+		float: left;
+		background:url(img/about/fit.jpg) center center no-repeat;
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
+	}
+	
+	span{float:right}
+	span a {
+		margin-right:15px;
+	}
+	span img:hover{
+		background-color:#B8B4B4;}
+	.box_about .left3_about{
+		float: left;
+		background: url(img/about/10854210_902287993128188_2742916364147027383_o.jpg) center center no-repeat;
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
+		
+	}.box_about .left4_about{
+		float: left;
+		background: url(img/about/10854210_902287993128188_2742916364147027383_o.jpg)  center center no-repeat;
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
+	}
+	.box_about .right_about{
+		float: left;
+		width: 600px;
+		margin-left: 50px;
+		margin-right:20px;
+	}
+	.right_about p{
+		margin-top: 0;
+		margin-bottom:15px;
+	}
+/* css hotList */
+.main_hotlist{
+	height:900px;
+	
+}
+.main_hotList h1{
+		background:#EBEBEB;
+		padding-top:10px;
+		padding-bottom:5px;		
+		color:#34495E;
+		font-size:28px;
+		text-align:center;	
+		margin-top:10px;
+		border-top-right-radius:2px;
+		border-top-left-radius:2px;
+		margin:0 auto;
+		margin-top:10px;
+		margin-bottom:10px;
+		width:900px;
+}
+.main_hotList  .box_hotList{
+	
+		width:900px;
+		height:1500px;
+		margin:0 auto;
+	}
+.main_hotList  .box_hotList .left_hotList{
+		width:400px;
+		height:280px;
+		margin-right:0;
+		float:left;
+		margin-bottom:10px;
+		margin-left:20px;
+		border:.5px solid #F1EBEB;		
+	}
+	
+.gambar_hotList {
+		width:390px;
+		height:190px;
+		padding:13px;
+}
+.img{margin:3px;}
+.keterangan_hotList {
+		width:405px;
+		height:70px;
+	}
+.keterangan1_hotList {
+		width:170px;
+		float:left;
+		padding-left:10px;
+		}
+.keterangan1_hotList  h4{
+		color:#F50408;
+		margin-bottom:0;
+		margin-top:5px;
+}
+h4 a:hover{text-decoration :underline;}
+
+.keterangan1_hotList  p{
+		margin-top:0;
+		color:#0D91F0;
+	}
+.keterangan1_hotList b{color:#F50408;}
+.keterangan_hotList 2{
+		height:58px;
+		width:182px;
+		float:right;
+		margin-right:15px;
+}
+.keterangan2_hotList  span{
+		border:solid .5 black;
+		margin:0;
+		height:60px;	
+}
+.keterangan2_hotList  span img{
+		border:solid 1px black;
+		padding:3px;
+}
+.main_hotList .box_hotList .right_hotList{
+		width:400px;
+		height:280px;		
+		margin-bottom:10px;
+		margin-right:0;
+		float:right;
+		margin-right:20px;
+		border:.5px solid #F1EBEB;	
+}
+
+/*CSS hotList_bagian */
+.main_hotList_bagian{
+		width:900px;
+		margin:auto;
+		height:900px;
+	}
+	.main_hotList_bagian h1{
+		color:#34495E;
+		font-size:28px;
+		text-align:center;	
+	}
+	.main_hotList_bagian .box1_hotList_bagian{
+		width:900px;
+		height:50px;
+		background-color:#EBEBEB;
+		margin-top:10px;
+	}
+	.box1_hotList_bagian span{
+		float:right;
+		border:.5px solid #B8B8B8;
+		border-radius:5px;
+		margin-right:10px;
+		margin-top:10px;
+		padding:6px;
+		background-color:#DFDBDB;
+	}
+.box1_hotList_bagian span:hover{background:#C5C5C5;}
+	.main_hotList_bagian .box2_hotList_bagian{
+		width:898px;
+		height:500px;
+		margin-right:10px;
+	}
+		.main_hotList_bagian .box2_hotList_bagian .left_hotList_bagian{
+		width:400px;
+		height:280px;
+		margin-right:0;
+		float:left;
+		border:.5px solid #F1EBEB;		
+		margin-bottom:0;
+		
+	}
+	
+	.gambar_hotList_bagian{
+		width:390px;
+		box-sizing:unset;
+		height:188px;
+		padding:10px 0px 15px 12px;	
+	
+	}
+	.keterangan_hotList_bagian{
+		width:405px;
+		height:70px;
+	}
+	.keterangan1_hotList_bagian{
+		width:170px;
+		float:left;
+		padding-left:10px;
+		}
+	.keterangan1_hotList_bagian h4{
+		margin-bottom:0;
+		margin-top:5px;
+		color:#F90004;
+	}
+	
+	.keterangan1_hotList_bagian p{
+		margin-top:0;
+		
+	}
+	.keterangan2_hotList_bagian{
+		height:58px;
+		width:182px;
+		float:right;
+		margin-right:15px;
+	}
+	.keterangan2_hotList_bagian span{
+		border:solid .5 black;
+		margin:0;
+		height:60px;	}
+	.main_hotList_bagian .box2_hotList_bagian .right_hotList_bagian{
+		width:494px;
+		height:280px;		
+		margin-bottom:0;
+		margin-right:0;
+		float:right;
+		border:.5px solid #F1EBEB;		
+	}
+	.main_hotList_bagian .box2_hotList_bagian .right_hotList_bagian h2 a{
+		padding-left:20px;
+	}
+	.main_hotList_bagian .box2_hotList_bagian .right_hotList_bagian p{
+		padding-right:20px;
+		padding-left:20px;
+		text-align:justify;}
+	.main_hotList_bagian .box3_hotList_bagian{
+		background:#E4E4E4;
+		width:896px;
+		height:30px;
+		margin-bottom:10px;
+		margin-top:10px;
+		margin-right:0;
+		float:right;
+		border:.5px solid #F1EBEB;	
+	}
+	.main_hotList_bagian .box4_hotList_bagian{
+		width:896px;
+		height:auto;
+		margin-right:0;
+		float:right;
+		border:.5px solid #F1EBEB;	
+	}
+	.main_hotList_bagian .box4_hotList_bagian .koleksi_hotList_bagian{
+		width:898px
+		height:700px;
+		margin-right:0;
+		float:left;
+	}
+	.main_hotList_bagian .box4_hotList_bagian .koleksi_hotList_bagian .koleksi1_hotList_bagian{
+		width:210px;
+		height:300px;
+		margin:5px;
+		margin-right:0;
+		float:left;
+		border:.5px solid #F1EBEB;
+		padding-top:6px;
+		padding-left:6px;
+	}
+	.main_hotList_bagian .box4_hotList_bagian .koleksi_hotList_bagian .koleksi1_hotList_bagian h4{
+		padding-right:5px;
+		padding-left:5px;
+		margin-bottom:5px;
+		margin-top:10px;
+		font-size:12px;
+		color:#1B20FB;
+		
+	}
+	h4 a:hover{color:#0CC327;}
+	.main_hotList_bagian .box4_hotList_bagian .koleksi_hotList_bagian .koleksi1_hotList_bagian p{
+		padding-right:70px;
+		padding-left:5px;
+		margin-top:5px;
+		font-size:12px;
+		color:#F7060A;
+		
+	}
+	
+/*CSS_about*/
+	.main_about{
+		width:916px;
+		margin:auto;
+	}
+	.main_about h1{
+		color:#34495E;
+		font-size:28px;
+	}
+	
+	.box_about{
+		border-radius:8px;
+		background:#F3CEFF;
+		width: 883px;
+		height: 292px;
+		margin-top: 10px;
+		padding-left: 25px;
+		padding-top:5px;
+		text-align: justify;
+		color:#8B01AA;
+	}
+	.box_about p{
+		color:#34495E;
+	}
+	
+	.box_about .left1_about{
+		float: left;
+		background: url(img/about/10854210_902287993128188_2742916364147027383_o.jpg)  center center no-repeat;	
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
+	}
+	.box_about .left2_about{
+		float: left;
+		background:url(img/about/fit.jpg) center center no-repeat;
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
+	}
+	
+	span{float:right}
+	span a {
+		margin-right:15px;
+	}
+	span img:hover{
+		background-color:#B8B4B4;}
+	.box_about .left3_about{
+		float: left;
+		background: url(img/about/10854210_902287993128188_2742916364147027383_o.jpg) center center no-repeat;
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
+		
+	}.box_about .left4_about{
+		float: left;
+		background: url(img/about/10854210_902287993128188_2742916364147027383_o.jpg)  center center no-repeat;
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
+	}
+	.box_about .right_about{
+		float: left;
+		width: 600px;
+		margin-left: 50px;
+		margin-right:20px;
+	}
+	.right_about p{
+		margin-top: 0;
+		margin-bottom:15px;
+	}
